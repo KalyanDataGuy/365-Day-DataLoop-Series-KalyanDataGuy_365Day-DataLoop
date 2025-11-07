@@ -10,6 +10,7 @@ Conceptual storytelling, observing patterns in daily data.
 ## Part II — Decision Drift (Upcoming)
 📉 How repeated micro-decisions accumulate silently over 364 / 365 days  
 Analytical storytelling, visualization with arrows, fading waveforms, and calendar cues.
+[View Part 2: https://github.com/KalyanDataGuy/Decision-Drift]
 
 ## Part III — Human Signal (Upcoming)
 🔮 Advanced insights on human decisions & data drift.
