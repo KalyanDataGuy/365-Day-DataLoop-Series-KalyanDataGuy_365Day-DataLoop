@@ -7,10 +7,10 @@ Analytical storytelling series: micro-decisions, data drift, human signal
 Conceptual storytelling, observing patterns in daily data.
 [View Part 1: Coffee Data Loop](https://github.com/KalyanDataGuy/365Day-DataLoop)
 
-## Part II — Decision Drift (Upcoming)
+## Part II — Decision Drift 
 📉 How repeated micro-decisions accumulate silently over 364 / 365 days  
 Analytical storytelling, visualization with arrows, fading waveforms, and calendar cues.
-[View Part 2: https://github.com/KalyanDataGuy/Decision-Drift]
+[View Part 2: Decision Drift](https://github.com/KalyanDataGuy/Decision-Drift)
 
 ## Part III — Human Signal (Upcoming)
 🔮 Advanced insights on human decisions & data drift.
