@@ -12,6 +12,6 @@ Conceptual storytelling, observing patterns in daily data.
 Analytical storytelling, visualization with arrows, fading waveforms, and calendar cues.
 [View Part 2: Decision Drift](https://github.com/KalyanDataGuy/Decision-Drift)
 
-## Part III — Human Signal (Upcoming)
-🔮 Advanced insights on human decisions & data drift.
-
+## Part III — Human Signal 
+🔮 Advanced insights on human decisions & data drift. Happy ending of series.
+[View Part 3: Human Signal](https://github.com/KalyanDataGuy/Human-Signal)
